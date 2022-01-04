@@ -10,6 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ponqueli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
 
+>Writing clean code is what you must do in order to call yourself a professional.
+>There is no reasonable excuse for doing anything less than your best. (Clean Code)
+
 ##
 
 ### What I know the most...
