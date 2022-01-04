@@ -8,12 +8,11 @@
 <div align="center">
   <a href="https://github.com/ponqueli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ponqueli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponqueli&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
+
 ##
 
-### What I know the most... 🐱‍👤
+### What I know the most...
 <div style="display: inline_block"><br>
   <img align="center" alt="Ponqueli-Java" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Ponqueli-AngularJs" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain-wordmark.svg">
@@ -22,7 +21,7 @@
   <img align="center" alt="Ponqueli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-### What I'm currently learning... 👨‍💻
+### What I'm currently learning...
 <div style="display: inline_block"><br>
   <img align="center" alt="Ponqueli-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Ponqueli-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
