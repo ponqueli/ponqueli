@@ -8,6 +8,7 @@
 <div align="center">
   <a href="https://github.com/ponqueli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ponqueli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponqueli&layout=compact&theme=radical)"
 </div>
 
 >Writing clean code is what you must do in order to call yourself a professional.
