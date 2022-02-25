@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm **Jose**, a _curious_ Full Stack Developer.
+## I'm **Jose**, a _curious_ Full Stack Developer. (☕💻💡❤️)
 
 - 🔭 I’m currently working at [Sankhya](https://www.sankhya.com.br)
 - 🌱 I’m currently learning Vue, React, Angular, SpringBoot, Node, TypeScript...
