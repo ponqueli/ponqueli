@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm **Jose**, a _curious_ Full Stack Developer. (☕💻💡❤️)
 
-- 🔭 I’m currently working at [Sankhya](https://www.sankhya.com.br)
+- 🔭 I’m currently holding the position of Front-end Developer at [Daitan](https://www.daitan.com)
 - 🌱 I’m currently learning Vue, React, Angular, SpringBoot, Node, TypeScript...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a crystal collector 💎 and Reikian 🙏
