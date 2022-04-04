@@ -4,7 +4,7 @@
 - 🔭 I’m currently holding the position of Front-end Developer at [Daitan](https://www.daitan.com).
 - 🌱 I’m currently learning React, Vue, SpringBoot, Node, TypeScript and Microfrontend...
 - 😄 Pronouns: he/him
-- ⚡ I'm a crystal collector 💎 and Reikian 🙏
+- ⚡ I'm a crystal collector 💎 and Reikian 🙏❤️
 
 <div align="center">
   <a href="https://github.com/ponqueli">
