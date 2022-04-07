@@ -1,7 +1,7 @@
 ### Hi there 👋👨‍💻
 ## I'm **Jose**, a _curious_ Full Stack Developer. (☕💻💡)
 
-- 🔭 I’m currently holding the position of Front-end Developer at [Daitan](https://www.daitan.com).
+- 🔭 I’m currently holding the position of Front-end Developer at [Daitan, uma Empresa Encora](https://www.daitan.com).
 - 🌱 I’m currently learning React, Vue, SpringBoot, Node, TypeScript and Microfrontend...
 - 😄 Pronouns: he/him
 - ⚡ I'm a crystal collector 💎 and Reikian 🙏❤️
