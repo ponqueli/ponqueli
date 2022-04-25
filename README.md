@@ -1,4 +1,4 @@
-### Hi there 👋👨‍💻
+### Hi there 👋👨‍💻🚀
 ## I'm **Jose**, a _curious_ Full Stack Developer, but now Acting as Front-End Developer (☕💻💡)
 
 - 🔭 I’m currently holding the position of Front-end Developer at [Daitan, uma Empresa Encora](https://www.daitan.com).
