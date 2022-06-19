@@ -1,4 +1,4 @@
-### Hi there 👋👨‍💻
+### Hi there 👋👨‍💻 #NeverStopLearning
 ## I'm **Jose**, a _curious_ Full Stack Developer, now working as Front-End Dev. (☕💻💡)
 
 - 🔭 I’m currently holding the position of Front-end Developer at [Encora Brazil](https://www.daitan.com).
