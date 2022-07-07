@@ -10,7 +10,7 @@
   </a>
 </div>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ponqueli.visitor-badge)
+
 <br/>
 #### About me:
 
