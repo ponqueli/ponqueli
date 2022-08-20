@@ -20,12 +20,13 @@
 - ⚡ I'm a crystal collector 💎 and Reikian 🙏❤️
 
 
-<div dir="auto">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponqueli&show_icons=true&theme=react&card_width="10%")
+<p>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponqueli&show_icons=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponqueli&layout=compact&theme=react)](https://github.com/ponqueli/github-readme-stats)
- </div>
+ 
+</p>
  
 >Writing clean code is what you must do in order to call yourself a professional.
 >There is no reasonable excuse for doing anything less than your best. (Clean Code)
