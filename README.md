@@ -19,16 +19,13 @@
 - 😄 Pronouns: he/him
 - ⚡ I'm a crystal collector 💎 and Reikian 🙏❤️
 
-<div align="left">
-  <a href="https://github.com/ponqueli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ponqueli&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-</div>
 
-<div align="left">
+<div dir="auto">
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponqueli&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponqueli&show_icons=true&theme=react&card_width="10%")
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponqueli&layout=compact&theme=react)](https://github.com/ponqueli/github-readme-stats)
+ </div>
  
 >Writing clean code is what you must do in order to call yourself a professional.
 >There is no reasonable excuse for doing anything less than your best. (Clean Code)
