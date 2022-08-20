@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ponqueli&theme=react" alt="ponqueli" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ponqueli&show_icons=true&locale=en&layout=compact&theme=react" alt="ponqueli" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ponqueli&show_icons=true&locale=en&layout=compact&theme=react" alt="ponqueli" /></p>
 
 
  
