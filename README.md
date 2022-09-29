@@ -14,7 +14,7 @@
 <br/>
 #### About me:
 
-- 🔭 I’m currently holding the position of Front-end Developer at [Encora Brazil](https://www.daitan.com).
+- 🔭 I’m currently holding the position of Front-end Developer at [Encora](https://www.encora.com/).
 - 🌱 I’m currently learning ReactJS, Node, TypeScript and Microfrontend...
 - 😄 Pronouns: he/him
 - ⚡ I'm a crystal collector 💎 and Reikian 🙏❤️
