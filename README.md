@@ -10,8 +10,8 @@
   </a>
 </div>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ponqueli.visitor-badge)
 <br/>
+
 #### About me:
 
 - 🔭 I’m currently holding the position of Front-end Developer at [Encora](https://www.encora.com/).
