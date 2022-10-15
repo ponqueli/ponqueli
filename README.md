@@ -14,6 +14,7 @@
 
 #### About me:
 
+- 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br). 
 - 🔭 I’m currently holding the position of Front-end Developer at [Encora](https://www.encora.com/).
 - 🌱 I’m currently learning ReactJS, Node, TypeScript and Microfrontend...
 - 😄 Pronouns: he/him
