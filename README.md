@@ -57,7 +57,7 @@
  
 <div> 
 
-  ![Snake animation](https://github.com/ponqueli/ponqueli/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ponqueli/ponqueli/blob/output/github-snake.svg)
  
 </div>
 
