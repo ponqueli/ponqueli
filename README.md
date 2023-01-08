@@ -55,9 +55,8 @@
   
  ##
  
-<div> 
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ponqueli/count.svg" /></p>
 
-  ![Snake animation](https://github.com/ponqueli/ponqueli/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+![snake gif](https://github.com/ponqueli/ponqueli/blob/output/github-contribution-grid-snake.svg)
 
