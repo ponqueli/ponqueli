@@ -12,7 +12,7 @@
 
 <br/>
 
-#### About me:
+#### About me
 
 - 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br). 
 - 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/).
