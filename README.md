@@ -20,11 +20,11 @@
 - 😄 Pronouns: he/him
 - ⚡ I'm a crystal collector 💎 and Reikian 🙏
 
-<p><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=ponqueli&show_icons=true&locale=en&theme=react" alt="ponqueli" /></p>
+<p><img align="left" width="46%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ponqueli&show_icons=true&locale=en&theme=react" alt="ponqueli" /></p>
 
 <p><img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=ponqueli&theme=react" alt="ponqueli" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ponqueli&show_icons=true&locale=en&layout=compact&theme=react" alt="ponqueli" /></p>
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ponqueli&show_icons=true&locale=en&layout=compact&theme=react" alt="ponqueli" /></p>
 
 
  
