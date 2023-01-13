@@ -16,7 +16,7 @@
 
 - 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br). 
 - 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/).
-- 🌱 I’m currently learning ReactJS, React Native, TypeScript and NextJS.
+- 🌱 I’m currently learning ReactJS, Node, React Native and NextJS.
 - 😄 Pronouns: he/him
 - ⚡ I'm a crystal collector 💎 and Reikian 🙏
 
