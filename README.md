@@ -14,9 +14,9 @@
 
 #### About me:
 
-- 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br). 
-- 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/).
-- 🌱 I’m currently learning ReactJS, Node, React Native and NextJS.
+- 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br)
+- 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/)
+- 🌱 I’m currently learning ReactJS, Node, React Native and NextJS
 - 😄 Pronouns: he/him
 - ⚡ I'm a crystal collector 💎 and Reikian 🙏
 
@@ -54,8 +54,8 @@
 </div>
   
  ##
- 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ponqueli/count.svg" /></p>
+<p align="center"> Visits </p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/ponqueli/count.svg" /></p>
 
 
 ![snake gif](https://github.com/ponqueli/ponqueli/blob/output/github-contribution-grid-snake.svg)
