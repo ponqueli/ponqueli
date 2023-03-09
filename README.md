@@ -54,7 +54,7 @@
 
 
  ##
-<p align="center"> Visits </p>
+<p align="center"> Visits: </p>
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/ponqueli/count.svg" /></p>
 
 
