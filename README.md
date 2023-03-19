@@ -58,5 +58,7 @@
 <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/ponqueli/count.svg" /></p>
 
 
+>Conhecimento é um caminho sem volta.
+
 ![snake gif](https://github.com/ponqueli/ponqueli/blob/output/github-contribution-grid-snake.svg)
 
