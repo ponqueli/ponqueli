@@ -1,4 +1,4 @@
-### Hi there 👋👨‍💻 #NeverStopLearning
+### Hi 👋👨‍💻 #NeverStopLearning
 ## I'm **Jose**, a _curious_ Human, working as a Front-End Dev. (☕💻💡)
 
 <div> 
