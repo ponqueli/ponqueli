@@ -14,8 +14,8 @@
 
 #### About me:
 
-- 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br).
-- 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/).
+- 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br)
+- 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/)
 - 🌱 I’m currently learning ReactJS, Node and NextJS.
 - ⚡ I'm a crystal collector 💎 and Reikian 🙏
 
