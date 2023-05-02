@@ -1,5 +1,5 @@
 ### Hi 👋👨‍💻 #NeverStopLearning
-## I'm **Jose**, a _curious_ Human, working as a Front-End Dev. (☕💻💡)
+## I'm **Jose**, a _curious_ Human, working as a Front-End Dev (☕💻💡)
 
 <div> 
   <a href="https://www.linkedin.com/in/jose-conto/" rel="nofollow" target="_blank">
