@@ -17,7 +17,7 @@
 - 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br).
 - 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/).
 - 🌱 I’m currently learning ReactJS, Node and NextJS.
-- ⚡ I'm a crystal collector 💎 and Reikian 🙏
+- ⚡ I'm a crystal collector 💎 and Reiki Practitioner 🙏
 
 <p><img align="left" width="46%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ponqueli&show_icons=true&locale=en&theme=react" alt="ponqueli" /></p>
 
