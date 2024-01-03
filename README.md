@@ -1,5 +1,5 @@
 ### Hi 👋👨‍💻 #NeverStopLearning
-## I'm **Jose**, a _curious_ Human, working as a Front-End Dev (☕💻💡)
+## I'm **Jose**, a _curious_ Human, working as a Front-End Developer (☕💻💡)
 
 <div> 
   <a href="https://www.linkedin.com/in/jose-conto/" rel="nofollow" target="_blank">
@@ -14,9 +14,9 @@
 
 #### About me:
 
-- 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br)
-- 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/)
-- 🌱 I’m currently learning ReactJS, NextJS, and AWS
+- 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br).
+- 🔭 I’m currently working as a Front-end Developer at [Encora](https://www.encora.com/).
+- 🌱 I’m currently learning ReactJS, NextJS, AWS and Java.
 - ⚡ I'm a crystal collector 💎 and Reiki Practitioner 🙏
 
 <p><img align="left" width="46%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ponqueli&show_icons=true&locale=en&theme=react" alt="ponqueli" /></p>
