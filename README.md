@@ -60,5 +60,3 @@
 
 >Conhecimento é um caminho sem volta
 
-![snake gif](https://github.com/ponqueli/ponqueli/blob/output/github-contribution-grid-snake.svg)
-
