@@ -1,8 +1,6 @@
 ### Hi 👋👨‍💻 #NeverStopLearning
 ## I'm **Jose**, a _curious_ Human, working as a Front-End Developer (☕💻💡)
 
-<br/>
-
 #### About me:
 
 - 👨‍💻 Graduaded in Computer Engineering by [UTFPR](https://www.utfpr.edu.br).
